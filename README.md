@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate QA engineer who loves to automate things. I entered the world of IT through the Java programming language and continued to improve my skills in software testing. The topic of software testing is not just clicking until you're unconscious, but thoughtful steps and finding (small or large) issues/flaws in the early stages of software development. No, I'm not a Tester, I'm not an Alpha or Beta user, but sometimes I play it in my team in order to best see how the application is used, I work on improving the quality in all directions.
+Passionate QA engineer who loves to automate things. I entered the world of IT through the Java programming language and continued to improve my skills in software testing.
 
 
 ## 🌐 Socials:
